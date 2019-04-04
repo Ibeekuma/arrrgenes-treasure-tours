@@ -76,6 +76,7 @@ html {
 .btn-banner:focus {
   background-color: #bea59b;
   border-color: #fff;
+  outline-color: #fff;
   color: #522806;
 }
 
